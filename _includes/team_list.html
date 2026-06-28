@@ -1,0 +1,112 @@
+{% assign active_members = site.data.team | where_exp:"memb", "memb.active" %}
+{% assign member_list = active_members | where_exp:"memb", "selected_categories contains memb.category" %}
+
+{% for member in member_list %}
+
+<div class="row member-row">
+
+<div class="col-sm-12 clearfix member-list-item">
+
+<div class="member-photo-wrapper">
+
+<img
+  src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}"
+  class="img-responsive member-photo"
+/>
+
+</div>
+
+  {% if member.link %}
+  <h4>
+    <a href="{{ member.link }}" class="member-link">
+      {{ member.name }}
+    </a>
+  </h4>
+  {% else %}
+  <h4>{{ member.name }}</h4>
+  {% endif %}
+
+  <i>{{ member.info }}</i>
+
+  {% if member.intro %}
+  <p class="member-intro">{{ member.intro }}</p>
+  {% endif %}
+
+  {% if member.internship %}
+  <p class="member-section-title">Internship</p>
+
+  <ul class="member-detail-list">
+    {% for item in member.internship %}
+    <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if member.achievements %}
+  <p class="member-section-title">Achievements</p>
+
+  <ul class="member-detail-list">
+    {% for item in member.achievements %}
+    <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if member.publications %}
+  <p class="member-section-title">Publications</p>
+
+  <ul class="member-detail-list">
+    {% for item in member.publications %}
+    <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+
+{% if member.research %}
+<p class="member-section-title">Research Interests</p>
+
+<p>
+{% for item in member.research %}
+{{ item }}{% unless forloop.last %} • {% endunless %}
+{% endfor %}
+</p>
+
+{% endif %}
+
+{% if member.email %}
+<p class="member-section-title">Email</p>
+
+{% for item in member.email %}
+<p>{{ item }}</p>
+{% endfor %}
+
+{% endif %}
+
+{% if member.scholar or member.dblp %}
+
+<p class="member-section-title">Links</p>
+
+<p>
+
+{% if member.scholar %}
+<a href="{{ member.scholar }}" target="_blank">Google Scholar</a>
+{% endif %}
+
+{% if member.scholar and member.dblp %}
+|
+{% endif %}
+
+{% if member.dblp %}
+<a href="{{ member.dblp }}" target="_blank">DBLP</a>
+{% endif %}
+
+</p>
+
+{% endif %}
+
+</div>
+
+</div>
+
+{% endfor %}

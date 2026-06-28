@@ -1,0 +1,28 @@
+{% for pub in site.data.publist %}
+<div class="pub-row">
+  <div class="pub-img">
+    {% if pub.image %}
+    <img src="{{ site.baseurl }}/images/publications/{{ pub.image }}" alt="{{ pub.title }}">
+    {% endif %}
+  </div>
+
+  <div class="pub-info">
+    <div class="pub-title">{{ pub.title }}</div>
+
+    <div class="pub-authors">
+      {% for author in pub.authors %}{% if author.name == "Donghyeon Cho" %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </div>
+
+    <div class="pub-venue">
+      <strong>{{ pub.venue }}</strong>, {{ pub.year }}
+      {% if pub.note %} <span>({{ pub.note }})</span>{% endif %}
+    </div>
+
+    <div class="pub-links">
+      {% if pub.paper %}<a href="{{ pub.paper }}">Paper</a>{% endif %}
+      {% if pub.project %}<a href="{{ pub.project }}">Project</a>{% endif %}
+      {% if pub.code %}<a href="{{ pub.code }}">Code</a>{% endif %}
+    </div>
+  </div>
+</div>
+{% endfor %}

@@ -1,0 +1,891 @@
+# [2026]
+
+- title: "CURE: Controllable Unified Image Restoration for Complex Degradations"
+  authors:
+    - name: Boseong Kim
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ICPR"
+  venue_full: "International Conference on Pattern Recognition"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "cure.jpg"
+  paper:
+  project:
+  code: "https://github.com/bo-oseng/CURE"
+
+- title: "Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement"
+  authors:
+    - name: Hyunjoon Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ICPR"
+  venue_full: "International Conference on Pattern Recognition"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "multi_cue_mask_refinement.jpg"
+  paper:
+  project:
+  code:
+
+- title: "3D Gaussian Splatting at Arbitrary Resolution with Compact Proxy Anchors"
+  authors:
+    - name: Mingyun Jeong
+    - name: Seongro Yoon
+    - name: Francois Bremond
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "CVPR"
+  venue_full: "IEEE Conference on Computer Vision and Pattern Recognition"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "compact_proxy_anchors.jpg"
+  paper: "https://openaccess.thecvf.com/content/CVPR2026/papers/Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper.pdf"
+  project:
+  code: "https://github.com/JungMinKyun/ARCA-GS"
+  highlight: true
+
+- title: "GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refinement in 3D Gaussian Splatting"
+  authors:
+    - name: Yongjoon Lee
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "AAAI"
+  venue_full: "Annual AAAI Conference on Artificial Intelligence"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "gpgs.jpg"
+  paper: "https://ojs.aaai.org/index.php/AAAI/article/view/37515"
+  project:
+  code: "https://github.com/yongjoon99/GPGS"
+  highlight: true
+
+
+# [2025]
+
+- title: "Preserving Instance-Level Characteristics for Multi-Instance Generation"
+  authors:
+    - name: Jaehak Ryu
+    - name: Sungwon Moon
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "IMAVIS"
+  venue_full: "Image and Vision Computing"
+  year: 2025
+  type: "Journal"
+  note: "Q1 Journal"
+  image: "multi_instance_generation.jpg"
+  paper: "https://www.sciencedirect.com/science/article/pii/S0262885625004391"
+  project:
+  code:
+  highlight: true
+
+- title: "Progressive Artwork Outpainting via Latent Diffusion Models"
+  authors:
+    - name: Dae-Young Song
+    - name: Jung-Jae Yu
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ICCV"
+  venue_full: "International Conference on Computer Vision"
+  year: 2025
+  type: "Conference"
+  note: "BK21 conference"
+  image: "progressive_artwork_outpainting.jpg"
+  paper: "https://openaccess.thecvf.com/content/ICCV2025/papers/Song_Progressive_Artwork_Outpainting_via_Latent_Diffusion_Models_ICCV_2025_paper.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "MELON: Learning Multi-Aspect Modality Preferences for Accurate Multimedia Recommendation"
+  authors:
+    - name: Dongho Jeong
+    - name: Taeri Kim
+    - name: Donghyeon Cho
+    - name: Sang-Wook Kim
+  venue: "SIGIR"
+  venue_full: "International ACM SIGIR Conference on Research and Development in Information Retrieval"
+  year: 2025
+  type: "Conference"
+  note: "BK21 conference"
+  image: "melon.jpg"
+  paper: "https://dl.acm.org/doi/pdf/10.1145/3726302.3730031"
+  project:
+  code:
+  highlight: true
+
+
+# [2024]
+
+- title: "Consistent Object Removal from Masked Neural Radiance Fields by Estimating Never-Seen Regions in All-Views"
+  authors:
+    - name: Yongjoon Lee
+    - name: Jaehak Ryu
+    - name: Donggeun Yoon
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ICPR"
+  venue_full: "International Conference on Pattern Recognition"
+  year: 2024
+  type: "Conference"
+  note: "BK21 conference"
+  image: "masked_nerf_object_removal.jpg"
+  paper: "https://link.springer.com/chapter/10.1007/978-3-031-78312-8_28"
+  project:
+  code:
+
+- title: "CSSR: Cross-and Self-Feature Transformer with High-Frequency Feature Alignment for Reference-Based Super-Resolution"
+  authors:
+    - name: Seonggwan Ko
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ICPR"
+  venue_full: "International Conference on Pattern Recognition"
+  year: 2024
+  type: "Conference"
+  note: "BK21 conference"
+  image: "cssr.jpg"
+  paper: "https://link.springer.com/chapter/10.1007/978-3-031-78305-0_27"
+  project:
+  code: "https://github.com/SeonggwanKo/CSSR"
+
+- title: "Reference-based Burst Super-resolution"
+  authors:
+    - name: Seonggwan Ko
+    - name: Yeong Jun Koh
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "MM"
+  venue_full: "ACM Multimedia"
+  year: 2024
+  type: "Conference"
+  note: "BK21 conference"
+  image: "reference_based_burst_sr.jpg"
+  paper: "https://dl.acm.org/doi/pdf/10.1145/3664647.3681447"
+  project:
+  code: "https://github.com/SeonggwanKo/RefBSR"
+  highlight: true
+
+- title: "Probabilistic Weather Forecasting with Deterministic Guidance-based Diffusion Model"
+  authors:
+    - name: Donggeun Yoon
+    - name: Minseok Seo
+    - name: Doyi Kim
+    - name: Yeji Choi
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2024
+  type: "Conference"
+  note: "BK21 conference"
+  image: "weather_diffusion.jpg"
+  paper: "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf"
+  project:
+  code: "https://github.com/DongGeun-Yoon/DGDM"
+  highlight: true
+
+- title: "CORE-MPI: Consistency Object Removal with Embedding MultiPlane Image"
+  authors:
+    - name: Donggeun Yoon
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "CVPR"
+  venue_full: "IEEE Conference on Computer Vision and Pattern Recognition"
+  year: 2024
+  type: "Conference"
+  note: "BK21 conference"
+  image: "core_mpi.jpg"
+  paper: "https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_CORE-MPI_Consistency_Object_Removal_with_Embedding_MultiPlane_Image_CVPR_2024_paper.pdf"
+  project:
+  code:
+  highlight: true
+
+  # [2023]
+
+- title: "DIFu: Depth-guided Implicit Function for Clothed Human Reconstruction"
+  authors:
+    - name: Dae-Young Song
+    - name: HeeKyung Lee
+    - name: Jeongil Seo
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "CVPR"
+  venue_full: "IEEE Conference on Computer Vision and Pattern Recognition"
+  year: 2023
+  type: "Conference"
+  note: "BK21 conference"
+  image: "difu.jpg"
+  paper: "https://openaccess.thecvf.com/content/CVPR2023/papers/Song_DIFu_Depth-Guided_Implicit_Function_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "IFQA: Interpretable Face Quality Assessment"
+  authors:
+    - name: Byungho Jo
+    - name: Donghyeon Cho
+    - name: In Kyu Park
+    - name: Sungeun Hong
+  venue: "WACV"
+  venue_full: "IEEE Winter Conference on Applications of Computer Vision"
+  year: 2023
+  type: "Conference"
+  image: "ifqa.jpg"
+  paper: "https://openaccess.thecvf.com/content/WACV2023/papers/Jo_IFQA_Interpretable_Face_Quality_Assessment_WACV_2023_paper.pdf"
+  project: "https://sites.google.com/view/vcl-lab/publications/international-conference/ifqa_wacv23"
+  code: "https://github.com/VCLLab/IFQA"
+
+- title: "Cloth Changing Person Re-Identification with Noisy Patch Filtering"
+  authors:
+    - name: Hyeok-Joon Kweon
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2023
+  type: "Journal"
+  image: "cloth_changing_reid.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/10083253"
+  project:
+  code:
+
+
+# [2022]
+
+- title: "Lightweight Alpha Matting Network Using Distillation-Based Channel Pruning"
+  authors:
+    - name: Donggeun Yoon
+    - name: Jinsun Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ACCV"
+  venue_full: "Asian Conference on Computer Vision"
+  year: 2022
+  type: "Conference"
+  note: "BK21 conference"
+  image: "alpha_matting_pruning.jpg"
+  paper: "https://openaccess.thecvf.com/content/ACCV2022/papers/Yoon_Lightweight_Alpha_Matting_Network_Using_Distillation-Based_Channel_Pruning_ACCV_2022_paper.pdf"
+  project:
+  code: "https://github.com/DongGeun-Yoon/DCP"
+
+- title: "Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation"
+  authors:
+    - name: Dae-Young Song
+    - name: Geonsoo Lee
+    - name: HeeKyung Lee
+    - name: Gi-Mun Um
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2022
+  type: "Conference"
+  note: "BK21 conference"
+  image: "panoramic_stitching.jpg"
+  paper: "https://arxiv.org/pdf/2209.05968"
+  project: "https://eadcat.github.io/WSSN/"
+  code: "https://github.com/EadCat/WeaklySupervisedStitchingNetwork"
+  highlight: true
+
+- title: "A Comprehensive Real-World Photometric Stereo Dataset for Unsupervised Anomaly Detection"
+  authors:
+    - name: Junyong Jung
+    - name: Seungoh Han
+    - name: Jinsun Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "IEEE Access"
+  year: 2022
+  type: "Journal"
+  image: "photometric_stereo_dataset.jpg"
+  paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9916256"
+  project:
+  code: "https://github.com/Junyong-Jung/PSAD"
+
+- title: "Lightweight Depth Completion Network with Local Similarity-Preserving Knowledge Distillation"
+  authors:
+    - name: Yongseop Jeong
+    - name: Jinsun Park
+    - name: Donghyeon Cho
+    - name: Yoonjin Hwang
+    - name: Seibum Choi
+    - name: In So Kweon
+  venue: "Sensors"
+  year: 2022
+  type: "Journal"
+  image: "depth_completion_kd.jpg"
+  paper: "https://www.mdpi.com/1424-8220/22/19/7388"
+  project:
+  code:
+
+- title: "Minifying Photometric Stereo via Knowledge Distillation-Based Feature Translation"
+  authors:
+    - name: Seungoh Han
+    - name: Jinsun Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "Optics Express"
+  year: 2022
+  type: "Journal"
+  image: "photometric_stereo_kd.jpg"
+  paper: "https://opg.optica.org/directpdfaccess/21835835-f95c-4f49-82ac1ccc4b4b72b4_507592/oe-30-21-38284.pdf?da=1&id=507592&seq=0&mobile=no"
+  project:
+  code:
+
+- title: "Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments"
+  authors:
+    - name: Jinsun Park
+    - name: Yongseop Jeong
+    - name: Kyungdon Joo
+    - name: Donghyeon Cho
+    - name: In So Kweon
+  venue: "RAL"
+  venue_full: "IEEE Robotics and Automation Letters"
+  year: 2022
+  type: "Journal"
+  image: "adaptive_cost_volume_fusion.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9712358/"
+  project:
+  code: "https://github.com/zzangjinsun/MMDCE_RAL22"
+  highlight: true
+
+- title: "A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance Systems"
+  authors:
+    - name: Minseok Seo
+    - name: Donghyeon Cho
+    - name: Sangwoo Lee
+    - name: Jongchan Park
+    - name: Daehan Kim
+    - name: Jaemin Lee
+    - name: Jingi Ju
+    - name: Hyeoncheol Noh
+    - name: Dong-Geol Choi
+  venue: "RAL"
+  venue_full: "IEEE Robotics and Automation Letters"
+  year: 2022
+  type: "Journal"
+  image: "self_supervised_sampler.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9667179/"
+  project:
+  code: "https://github.com/seominseok0429/SelSupSampler"
+  highlight: true
+
+- title: "Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images"
+  authors:
+    - name: Seonggwan Ko
+    - name: Jinsun Park
+    - name: Byungjoo Chae
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2022
+  type: "Journal"
+  image: "low_light_enhancement.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9648037"
+  project:
+  code: "https://github.com/SeonggwanKo/Low-Light"
+
+- title: "Channel Sampler in Hyperspectral Images for Vehicle Detection"
+  authors:
+    - name: Geonsoo Lee
+    - name: Jaekyu Lee
+    - name: Jeonghyun Baek
+    - name: Hoseong Kim
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "GRSL"
+  venue_full: "IEEE Geoscience and Remote Sensing Letters"
+  year: 2022
+  type: "Journal"
+  image: "hyperspectral_vehicle_detection.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9555818"
+  project:
+  code:
+
+
+# [2021]
+
+- title: "Restore from Restored: Video Restoration with Pseudo Clean Video"
+  authors:
+    - name: Seunghwan Lee
+    - name: Donghyeon Cho
+    - name: Jiwon Kim
+    - name: Tae Hyun Kim
+  venue: "CVPR"
+  venue_full: "IEEE Conference on Computer Vision and Pattern Recognition"
+  year: 2021
+  type: "Conference"
+  note: "BK21 conference"
+  image: "restore_from_restored.jpg"
+  paper: "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Restore_From_Restored_Video_Restoration_With_Pseudo_Clean_Video_CVPR_2021_paper.pdf"
+  project:
+  code: "https://github.com/shlee0/RFR-video-denoising"
+  highlight: true
+
+- title: "OCR-Based Inventory Management Algorithms Robust to Damaged Images"
+  authors:
+    - name: Minseok Seo
+    - name: Daehan Kim
+    - name: Hyeyoon Kang
+    - name: Donghyeon Cho
+    - name: Dong-Geol Choi
+  venue: "ICRA"
+  venue_full: "IEEE International Conference on Robotics and Automation"
+  year: 2021
+  type: "Conference"
+  note: "BK21 conference"
+  image: "ocr_inventory_management.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9561280"
+  project:
+  code:
+  highlight: true
+
+- title: "Domain Adaptation without Source Data"
+  authors:
+    - name: Youngeun Kim
+    - name: Donghyeon Cho
+    - name: Kyeongtak Han
+    - name: Priyadarshini Panda
+    - name: Sungeun Hong
+  venue: "T-AI"
+  venue_full: "IEEE Transactions on Artificial Intelligence"
+  year: 2021
+  type: "Journal"
+  image: "domain_adaptation_without_source.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9528982"
+  project:
+  code: "https://github.com/lotusroot-kim/SFDA-SourceFreeDA"
+
+- title: "Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images"
+  authors:
+    - name: Geonsoo Lee
+    - name: Sungeun Hong
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2021
+  type: "Journal"
+  image: "small_object_detection.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9432743"
+  project:
+  code:
+
+- title: "End-to-End Image Stitching Network via Multi-Homography Estimation"
+  authors:
+    - name: Dae-Young Song
+    - name: Gi-Mun Um
+    - name: Hee Kyung Lee
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2021
+  type: "Journal"
+  image: "multi_homography_stitching.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9393563"
+  project:
+  code:
+
+# [2020]
+
+- title: "Global-and-Local Relative Position Embedding for Unsupervised Video Summarization"
+  authors:
+    - name: Yunjae Jung
+    - name: Donghyeon Cho
+    - name: Sanghyun Woo
+    - name: In So Kweon
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2020
+  type: "Conference"
+  note: "BK21 conference"
+  image: "global_local_rpe.jpg"
+  paper: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700171.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "Fast Adaptation to Super-Resolution Networks via Meta-Learning"
+  authors:
+    - name: Seobin Park
+    - name: Jinsu Yoo
+    - name: Donghyeon Cho
+    - name: Jiwon Kim
+    - name: Tae Hyun Kim
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2020
+  type: "Conference"
+  note: "BK21 conference"
+  image: "meta_sr.jpg"
+  paper: "https://arxiv.org/pdf/2001.02905"
+  project:
+  code: "https://github.com/parkseobin/MLSR"
+  highlight: true
+
+- title: "Lightweight Deep CNN for Natural Image Matting via Similarity Preserving Knowledge Distillation"
+  authors:
+    - name: Donggeun Yoon
+    - name: Jinsun Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2020
+  type: "Journal"
+  image: "matting_kd.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9269400"
+  project:
+  code: "https://github.com/DongGeun-Yoon/SPKD"
+
+- title: "Towards Privacy-Preserving Domain Adaptation"
+  authors:
+    - name: Youngeun Kim
+    - name: Donghyeon Cho
+    - name: Sungeun Hong
+  venue: "SPL"
+  venue_full: "IEEE Signal Processing Letters"
+  year: 2020
+  type: "Journal"
+  image: "privacy_domain_adaptation.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/9200758/"
+  project:
+  code:
+
+- title: "Semi-calibrated Photometric Stereo"
+  authors:
+    - name: Donghyeon Cho
+    - name: Yasuyuki Matsushita
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "TPAMI"
+  venue_full: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2020
+  type: "Journal"
+  image: "semi_calibrated_ps.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/8478369"
+  project:
+  code:
+  highlight: true
+
+
+# [2019]
+
+- title: "Video Retargeting: Trade-off between Content Preservation and Spatio-temporal Consistency"
+  authors:
+    - name: Donghyeon Cho
+    - name: Yunjae Jung
+    - name: Francois Rameau
+    - name: Dahun Kim
+    - name: Sanghyun Woo
+    - name: In So Kweon
+  venue: "MM"
+  venue_full: "ACM Multimedia"
+  year: 2019
+  type: "Conference"
+  note: "BK21 conference"
+  image: "video_retargeting.jpg"
+  paper: "https://dl.acm.org/doi/pdf/10.1145/3343031.3350895"
+  project:
+  code:
+  highlight: true
+
+- title: "Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation"
+  authors:
+    - name: Kwanyong Park
+    - name: Sanghyun Woo
+    - name: Dahun Kim
+    - name: Donghyeon Cho
+    - name: In So Kweon
+  venue: "MM"
+  venue_full: "ACM Multimedia"
+  year: 2019
+  type: "Conference"
+  note: "BK21 conference"
+  image: "video_translation.jpg"
+  paper: "https://dl.acm.org/doi/pdf/10.1145/3343031.3350864"
+  project:
+  code:
+
+- title: "Patch-level Augmentation for Object Detection in Aerial Images"
+  authors:
+    - name: Sungeun Hong
+    - name: Sungil Kang
+    - name: Donghyeon Cho
+  venue: "ICCVW"
+  venue_full: "ICCV Workshop"
+  year: 2019
+  type: "Workshop"
+  image: "patch_augmentation.jpg"
+  paper: "https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Hong_Patch-Level_Augmentation_for_Object_Detection_in_Aerial_Images_ICCVW_2019_paper.pdf"
+  project:
+  code:
+  award: "Ranked 3rd in Vision Meets Drone Challenge"
+
+- title: "Key Instance Selection for Unsupervised Video Object Segmentation"
+  authors:
+    - name: Donghyeon Cho
+    - name: Sungeun Hong
+    - name: Sungil Kang
+    - name: Jiwon Kim
+  venue: "CVPRW"
+  venue_full: "CVPR Workshop"
+  year: 2019
+  type: "Workshop"
+  image: "key_instance_selection.jpg"
+  paper: "https://arxiv.org/pdf/1906.07851"
+  project:
+  code:
+  award: "Ranked 3rd in DAVIS Challenge"
+
+- title: "Discriminative Feature Learning for Unsupervised Video Summarization"
+  authors:
+    - name: Yunjae Jung
+    - name: Donghyeon Cho
+    - name: Dahun Kim
+    - name: Sanghyun Woo
+    - name: In So Kweon
+  venue: "AAAI"
+  venue_full: "The AAAI Conference on Artificial Intelligence"
+  year: 2019
+  type: "Conference"
+  note: "BK21 conference"
+  image: "dfl_video_summary.jpg"
+  paper: "https://ojs.aaai.org/index.php/AAAI/article/view/4872"
+  project:
+  code:
+  highlight: true
+
+- title: "Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles"
+  authors:
+    - name: Dahun Kim
+    - name: Donghyeon Cho
+    - name: In So Kweon
+  venue: "AAAI"
+  venue_full: "The AAAI Conference on Artificial Intelligence"
+  year: 2019
+  type: "Conference"
+  note: "BK21 conference"
+  image: "cubic_puzzle.jpg"
+  paper: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zj-NER4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=zj-NER4AAAAJ:5nxA0vEk-isC"
+  project:
+  code:
+  highlight: true
+
+- title: "Deep Convolutional Neural Network for Natural Image Matting using Initial Alpha Mattes"
+  authors:
+    - name: Donghyeon Cho
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "TIP"
+  venue_full: "IEEE Transactions on Image Processing"
+  year: 2019
+  type: "Journal"
+  image: "deep_matting_tip.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/8476594"
+  project:
+  code:
+  highlight: true
+
+
+# [2018]
+
+- title: "LinkNet: Relational Embedding for Scene Graph"
+  authors:
+    - name: Sanghyun Woo
+    - name: Dahun Kim
+    - name: Donghyeon Cho
+    - name: In So Kweon
+  venue: "NeurIPS"
+  venue_full: "Conference on Neural Information Processing Systems"
+  year: 2018
+  type: "Conference"
+  note: "BK21 conference"
+  image: "linknet.jpg"
+  paper: "https://proceedings.neurips.cc/paper_files/paper/2018/file/58238e9ae2dd305d79c2ebc8c1883422-Paper.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "Double JPEG Detection in Mixed JPEG Quality Factors using Deep Convolutional Neural Network"
+  authors:
+    - name: Jin-Seok Park
+    - name: Donghyeon Cho
+    - name: Wonhyuk Ahn
+    - name: Heung-Kyu Lee
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2018
+  type: "Conference"
+  note: "BK21 conference"
+  image: "double_jpeg_detection.jpg"
+  paper: "https://openaccess.thecvf.com/content_ECCV_2018/papers/Jin-Seok_Park_Double_JPEG_Detection_ECCV_2018_paper.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "Representation Learning by Completing Corrupted Jigsaw Puzzles"
+  authors:
+    - name: Dahun Kim
+    - name: Donghyeon Cho
+    - name: Donggeun Yoo
+    - name: In So Kweon
+  venue: "WACV"
+  venue_full: "IEEE Winter Conference on Applications of Computer Vision"
+  year: 2018
+  type: "Conference"
+  image: "jigsaw_puzzle.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/8354196"
+  project:
+  code:
+
+
+# [2017]
+
+- title: "Weakly- and Self Supervised Learning for Content-aware Deep Image Retargeting"
+  authors:
+    - name: Donghyeon Cho
+    - name: Jinsun Park
+    - name: Tae-Hyun Oh
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "ICCV"
+  venue_full: "IEEE International Conference on Computer Vision"
+  year: 2017
+  type: "Conference"
+  note: "Spotlight Presentation"
+  image: "content_aware_retargeting.jpg"
+  paper: "https://openaccess.thecvf.com/content_ICCV_2017/papers/Cho_Weakly-_and_Self-Supervised_ICCV_2017_paper.pdf"
+  project:
+  code:
+  highlight: true
+
+- title: "Two-Phase Learning for Weakly Supervised Object Localization"
+  authors:
+    - name: Dahun Kim
+    - name: Donghyeon Cho
+    - name: Donggeun Yoo
+    - name: In So Kweon
+  venue: "ICCV"
+  venue_full: "IEEE International Conference on Computer Vision"
+  year: 2017
+  type: "Conference"
+  note: "BK21 conference"
+  image: "two_phase_localization.jpg"
+  paper: "https://openaccess.thecvf.com/content_ICCV_2017/papers/Kim_Two-Phase_Learning_for_ICCV_2017_paper.pdf"
+  project:
+  code:
+
+- title: "A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation"
+  authors:
+    - name: Jinsun Park
+    - name: Yu-Wing Tai
+    - name: Donghyeon Cho
+    - name: In So Kweon
+  venue: "CVPR"
+  venue_full: "IEEE Conference on Computer Vision and Pattern Recognition"
+  year: 2017
+  type: "Conference"
+  note: "BK21 conference"
+  image: "defocus_estimation.jpg"
+  paper: "https://openaccess.thecvf.com/content_cvpr_2017/papers/Park_A_Unified_Approach_CVPR_2017_paper.pdf"
+  project:
+  code: "https://github.com/zzangjinsun/DHDE_CVPR17"
+  highlight: true
+
+- title: "Automatic Trimap Generation and Consistent Matting for Light-Field Images"
+  authors:
+    - name: Donghyeon Cho
+    - name: Sunyeong Kim
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "TPAMI"
+  venue_full: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2017
+  type: "Journal"
+  image: "lightfield_matting_tpami.jpg"
+  paper: "https://ieeexplore.ieee.org/abstract/document/7562518"
+  project:
+  code:
+  highlight: true
+
+  # [2016]
+
+- title: "Natural Image Matting using Deep Convolutional Neural Networks"
+  authors:
+    - name: Donghyeon Cho
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2016
+  type: "Conference"
+  note: "BK21 conference"
+  image: "deep_image_matting.jpg"
+  paper: "https://link.springer.com/chapter/10.1007/978-3-319-46475-6_39"
+  project:
+  code:
+  highlight: true
+
+- title: "Photometric Stereo under Non-uniform Light Intensities and Exposures"
+  authors:
+    - name: Donghyeon Cho
+    - name: Yasuyuki Matsushita
+    - name: Yu-Wing Tai
+    - name: In So Kweon
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2016
+  type: "Conference"
+  note: "BK21 conference"
+  image: "photometric_stereo_eccv.jpg"
+  paper: "https://link.springer.com/chapter/10.1007/978-3-319-46475-6_11"
+  project:
+  code:
+  highlight: true
+
+
+# [2014]
+
+- title: "Consistent Matting for Light Field Images"
+  authors:
+    - name: Donghyeon Cho
+    - name: Sunyeong Kim
+    - name: Yu-Wing Tai
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2014
+  type: "Conference"
+  note: "BK21 conference"
+  image: "lightfield_matting.jpg"
+  paper: "https://link.springer.com/chapter/10.1007/978-3-319-10593-2_7"
+  project:
+  code:
+  highlight: true
+
+
+# [2013]
+
+- title: "Modeling the Calibration Pipeline of the Lytro Camera for High Quality Light-Field Image Reconstruction"
+  authors:
+    - name: Donghyeon Cho
+    - name: Minhaeng Lee
+    - name: Sunyeong Kim
+    - name: Yu-Wing Tai
+  venue: "ICCV"
+  venue_full: "IEEE International Conference on Computer Vision"
+  year: 2013
+  type: "Conference"
+  note: "BK21 conference"
+  image: "lytro_calibration.jpg"
+  paper: "https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cho_Modeling_the_Calibration_2013_ICCV_paper.pdf"
+  project:
+  code:
+  highlight: true

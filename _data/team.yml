@@ -1,0 +1,289 @@
+- name: Donghyeon Cho
+
+  photo: donghyeon-cho.jpg
+
+  info: Associate Professor
+
+  intro: >
+    Department of Computer Science, Department of Artificial Intelligence,
+    Hanyang University
+
+  research:
+    - Computer Vision
+    - Video Understanding
+    - Image Restoration
+    - 3D Vision
+    - Generative AI
+    - Multimodal Learning
+
+  email:
+    - doncho@hanyang.ac.kr
+    - cdh12242@gmail.com
+
+  scholar: https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=en
+  dblp: https://dblp.org/pers/hd/c/Cho:Donghyeon
+
+  category: principal-investigator
+
+  active: true
+
+- name: 정민균, Mingyun Jeong
+  name_abbr: M. Jeong
+  photo: null-thumb.png
+  info: MS-PhD Integrated Student, 2024.09~
+  email:
+  intro: 3D Gaussian Splatting, 3D Vision, Long Video Understanding
+  internship:
+    - Inria Sophia Antipolis STARS team, France (2025.07~2025.12, 2026.07~2026.09)
+  achievements:
+    - Best Poster Presentation Award at IPIU 2026
+  publications:
+    - "3D Gaussian Splatting at Arbitrary Resolution with Compact Proxy Anchors, Mingyun Jeong, Seongro Yoon, Francois Bremond and Donghyeon Cho, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+    - "임의 해상도 렌더링에서의 3D Gaussian Splatting 메모리-성능 최적화, IPIU, 2026"
+    - "3D Gaussian Splatting에서의 Anti-aliasing에 관한 연구, IPIU, 2025"
+  link: mingyun-jeong
+  category: student
+  sort-key: jeong-mingyun
+  active: true
+
+- name: 임창수, Chang-soo Lim
+  name_abbr: C. Lim
+  photo: null-thumb.png
+  info: MS-PhD Integrated Student, 2026.03~
+  email:
+  intro: Video Object Segmentation, Video Understanding
+  internship:
+    - Inria Sophia Antipolis STARS team, France (2026.07~2026.12)
+  achievements:
+    - 3rd place in the MOSEv2 Track of the 7th LSVOS Challenge at ICCV 2025 Workshop
+  publications:
+    - "모델 결합을 통한 비디오 객체 분할 성능 향상, IPIU, 2026"
+    - "Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution, ICCV Workshop LVOS Challenge, 2025"
+  link: changsoo-lim
+  category: student
+  sort-key: lim-changsoo
+  active: true
+
+- name: 김보성, Boseong Kim
+  name_abbr: B. Kim
+  photo: null-thumb.png
+  info: M.S. Student, 2024.03~
+  email:
+  intro: Image Restoration, Controllable Image Restoration
+  internship:
+  achievements:
+  publications:
+    - "CURE: Controllable Unified Image Restoration for Complex Degradations, Boseong Kim and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
+    - "복합 열화 환경에서 복원 제어가 가능한 이미지 복원, IPIU, 2026"
+  link: boseong-kim
+  category: student
+  sort-key: kim-boseong
+  active: true
+
+- name: 손성준, Seong Jun Son
+  name_abbr: S. Son
+  photo: null-thumb.png
+  info: M.S. Student, 2024.03~
+  email:
+  intro: Aerial Image, Object Segmentation
+  internship:
+  achievements:
+  publications:
+    - "유도 증류 기법을 활용한 항공 영상에서의 준지도학습 기반 객체 분할 성능 개선에 관한 연구, IPIU, 2026"
+  link: seongjun-son
+  category: student
+  sort-key: son-seongjun
+  active: true
+
+- name: 김준하, Junha Kim
+  name_abbr: J. Kim
+  photo: null-thumb.png
+  info: M.S. Student, 2024.09~
+  email:
+  intro: Generative AI, Outpainting, Layout Control
+  internship:
+  achievements:
+  publications:
+    - "노이즈 최적화 및 레이아웃 조건을 활용한 아웃페인팅 성능 향상, IPIU, 2026"
+  link: junha-kim
+  category: student
+  sort-key: kim-junha
+  active: true
+
+- name: 김영승, Yeongseung Kim
+  name_abbr: Y. Kim
+  photo: null-thumb.png
+  info: M.S. Student, 2025.03~
+  email:
+  intro: Object Detection, Synthetic Data Generation, Cultural Heritage AI
+  internship:
+  achievements:
+    - "[2025] 한국연구재단(NRF) 석사과정생연구장려금지원사업 선정"
+  publications:
+    - "레이아웃 기반 합성 데이터 생성 및 정제를 통한 문화유산 객체 탐지 성능 향상, IPIU, 2026"
+  link: yeongseung-kim
+  category: student
+  sort-key: kim-yeongseung
+  active: true
+
+- name: 김지은, Jieun Kim
+  name_abbr: J. Kim
+  photo: null-thumb.png
+  info: M.S. Student, 2025.03~
+  email:
+  intro: Dataset Distillation, Representation Learning
+  internship:
+  achievements:
+  publications:
+    - "특징 분리 학습을 통한 얼굴 감정 인식에 관한 연구, IPIU, 2026"
+  link: jieun-kim
+  category: student
+  sort-key: kim-jieun
+  active: true
+
+- name: 이지원, Jiwon Lee
+  name_abbr: J. Lee
+  photo: null-thumb.png
+  info: M.S. Student, 2025.03~
+  email:
+  intro: Talking Head Generation, Multimodal Learning
+  internship:
+  achievements:
+    - "[2025] 한국연구재단(NRF) 석사과정생연구장려금지원사업 선정"
+  publications:
+    - "감정 조건부 다국어 3D Talking Head 데이터 합성에 대한 연구, IPIU, 2026"
+  link: jiwon-lee
+  category: student
+  sort-key: lee-jiwon
+  active: true
+
+- name: 박현준, Hyunjoon Park
+  name_abbr: H. Park
+  photo: null-thumb.png
+  info: M.S. Student, 2025.09~
+  email:
+  intro: 3D Gaussian Splatting, Video Generation, 3D Vision
+  internship:
+  achievements:
+  publications:
+    - "Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement, Hyunjoon Park and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
+    - "3DGS에서 2D SAM을 활용할 때 발생하는 한계점 극복 및 효과적인 3차원 공간 이해를 위한 방법에 관한 연구, IPIU, 2026"
+    - "3D Gaussian Splatting을 활용한 Point Cloud 합성 및 3차원 합성 공간 복원에 대한 연구, IPIU, 2025"
+  link: hyunjoon-park
+  category: student
+  sort-key: park-hyunjoon
+  active: true
+
+- name: 김나현, Na-hyun Kim
+  name_abbr: N. Kim
+  photo: null-thumb.png
+  info: M.S. Student, 2026.03~
+  email:
+  intro: Image Steganography, Multimedia Security
+  internship:
+  achievements:
+  publications:
+    - "이미지 스테가노그래피 기술 동향 및 오디오-이미지 은닉 기법 연구, IPIU, 2026"
+  link: nahyun-kim
+  category: student
+  sort-key: kim-nahyun
+  active: true
+
+- name: 정우진, Woo-jin Jeong
+  name_abbr: W. Jeong
+  photo: null-thumb.png
+  info: M.S. Student, 2026.03~
+  email:
+  intro: Super-Resolution, AGI, Reference-Based Restoration
+  internship:
+  achievements:
+  publications:
+    - "깊이 우선순위 기반 Forward Splatting을 이용한 버스트 영상 초해상화, IPIU, 2026"
+  link: woojin-jeong
+  category: student
+  sort-key: jeong-woojin
+  active: true
+
+- name: 강규태, Kyutae Kang
+  name_abbr: K. Kang
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: kyutae-kang
+  category: intern
+  sort-key: kang-kyutae
+  active: true
+
+- name: 김도훈, Dohoon Kim
+  name_abbr: D. Kim
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: dohoon-kim
+  category: intern
+  sort-key: kim-dohoon
+  active: true
+
+- name: 서상원, Sangwon Seo
+  name_abbr: S. Seo
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: sangwon-seo
+  category: intern
+  sort-key: seo-sangwon
+  active: true
+
+- name: 이건, Geon Lee
+  name_abbr: G. Lee
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: geon-lee
+  category: intern
+  sort-key: lee-geon
+  active: true
+
+- name: 장대혁, Daehyeok Jang
+  name_abbr: D. Jang
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: daehyeok-jang
+  category: intern
+  sort-key: jang-daehyeok
+  active: true
+
+- name: 조하준, Hajun Cho
+  name_abbr: H. Cho
+  photo: null-thumb.png
+  info: Undergraduate Intern
+  email:
+  intro: Computer Vision
+  internship:
+  achievements:
+  publications:
+  link: hajun-cho
+  category: intern
+  sort-key: cho-hajun
+  active: true

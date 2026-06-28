@@ -1,0 +1,123 @@
+- name: 이건수, Geonsoo Lee
+  position: M.S. Student
+  degree: MS 2023.02, Chungnam National University
+  current: Agency for Defense Development (ADD, 국방과학연구소)
+  start_date: [2021, 3, 1]
+  end_date: [2023, 2, 28]
+  publications:
+    - "Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation, Dae-Young Song, Geonsoo Lee, HeeKyung Lee, Gi-Mun Um and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2022"
+    - "Channel Sampler in Hyperspectral Images for Vehicle Detection, Geonsoo Lee, Jaekyu Lee, Jeonghyun Baek, Hoseong Kim and Donghyeon Cho, IEEE Geoscience and Remote Sensing Letters, 2021"
+    - "Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images, Geonsoo Lee*, Sungeun Hong* and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2021"
+
+- name: 송대영, Dae-Young Song
+  position: M.S. Student
+  degree: MS 2023.02, Chungnam National University
+  current: Electronics and Telecommunications Research Institute (ETRI, 한국전자통신연구원)
+  start_date: [2021, 3, 1]
+  end_date: [2023, 2, 28]
+  publications:
+    - "Progressive Artwork Outpainting via Latent Diffusion Models, Dae-Young Song, Jung-Jae Yu and Donghyeon Cho, International Conference on Computer Vision (ICCV), 2025"
+    - "DIFu: Depth-guided Implicit Function for Clothed Human Reconstruction, Dae-Young Song, HeeKyung Lee, Jeongil Seo and Donghyeon Cho, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023"
+    - "Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation, Dae-Young Song, Geonsoo Lee, HeeKyung Lee, Gi-Mun Um and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2022"
+    - "End-to-End Image Stitching Network via Multi-Homography Estimation, Dae-Young Song, Gi-Mun Um, Hee Kyung Lee and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2021"
+
+- name: 권혁준, Hyeok-Joon Kweon
+  position: M.S. Student
+  degree: MS 2023.02, Chungnam National University
+  current: AIworkX (에이아이웍스)
+  start_date: [2021, 3, 1]
+  end_date: [2023, 2, 28]
+  publications:
+    - "Cloth Changing Person Re-Identification with Noisy Patch Filtering, Hyeok-Joon Kweon and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2023"
+    - "Synthetic fisheye 이미지를 이용한 360˚ 파노라마 이미지 스티칭, 권혁준, 조동현, 방송공학회논문지, 2022"
+    - "Deep Multi-Image Steganography with Private Keys, Hyeok-Joon Kweon*, Jinsun Park*, Sanghyun Woo and Donghyeon Cho, Electronics, 2021"
+
+- name: 윤동근, Donggeun Yoon
+  position: M.S. Student
+  degree: MS 2024.02, Chungnam National University
+  current: Samsung Research (삼성 리서치)
+  internship:
+    - "SI Analytics, Daejeon, Korea (2023.03~2025.07)"
+  start_date: [2022, 3, 1]
+  end_date: [2024, 2, 28]
+  publications:
+    - "Consistent Object Removal from Masked Neural Radiance Fields by Estimating Never-Seen Regions in All-Views, Yongjoon Lee, Jaehak Ryu, Donggeun Yoon and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2024"
+    - "Probabilistic Weather Forecasting with Deterministic Guidance-based Diffusion Model, Donggeun Yoon*, Minseok Seo*, Doyi Kim, Yeji Choi and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2024"
+    - "CORE-MPI: Consistency Object Removal with Embedding MultiPlane Image, Donggeun Yoon and Donghyeon Cho, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
+    - "Lightweight Alpha Matting Network Using Distillation-Based Channel Pruning, Donggeun Yoon, Jinsun Park and Donghyeon Cho, Asian Conference on Computer Vision (ACCV), 2022"
+    - "Lightweight Deep CNN for Natural Image Matting via Similarity Preserving Knowledge Distillation, Donggeun Yoon*, Jinsun Park* and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2020"
+
+- name: 채병주, Byungjoo Chae
+  position: M.S. Student
+  degree: MS 2024.02, Chungnam National University
+  current: AIPIA (아이피아)
+  start_date: [2022, 3, 1]
+  end_date: [2024, 2, 28]
+  publications:
+    - "Online Learning for Reference-Based Super-Resolution, Byungjoo Chae*, Jinsun Park*, Tae-Hyun Kim and Donghyeon Cho, MDPI Electronics, 2022"
+    - "Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images, Seonggwan Ko*, Jinsun Park*, Byungjoo Chae and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2021"
+
+- name: 고성관, Seonggwan Ko
+  position: M.S. Student
+  degree: MS 2024.02, Chungnam National University
+  current: HL Klemove (HL 클레무브)
+  start_date: [2022, 3, 1]
+  end_date: [2024, 2, 28]
+  publications:
+    - "Reference-based Burst Super-resolution, Seonggwan Ko, Yeong Jun Koh and Donghyeon Cho, ACM Multimedia (MM), 2024"
+    - "CSSR: Cross-and Self-Feature Transformer with High-Frequency Feature Alignment for Reference-Based Super-Resolution, Seonggwan Ko and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2024"
+    - "Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images, Seonggwan Ko*, Jinsun Park*, Byungjoo Chae and Donghyeon Cho, IEEE Signal Processing Letter (SPL), 2021"
+
+- name: 김진욱, Jinuk Kim
+  position: M.S. Student
+  degree: MS 2024.02, Chungnam National University
+  current: LIG Nex1 (LIG 넥스원)
+  start_date: [2022, 3, 1]
+  end_date: [2024, 2, 28]
+  publications:
+    - "딥러닝 네트워크 기반의 투명 객체 특징 추출 및 깊이 추정, 전자공학회 추계학술대회, 2022"
+
+- name: 양재원, Jaewon Yang
+  position: M.S. Student
+  degree: MS 2024.02, Chungnam National University
+  current:
+  start_date: [2022, 3, 1]
+  end_date: [2024, 2, 28]
+  publications:
+    - "Unpaired Shadow Removal: Enhancing Attention to Shadow Areas via Dropkey, Jaewon Yang, Ukcheol Shin, Donghyeon Cho, International Conference on Electronics, Information, and Communication (ICEIC), 2025"
+
+- name: 황혜린, Hyerin Hwang
+  position: M.S. Student
+  degree: MS 2025.02, Chungnam National University
+  current: Korea Institute of Ocean Science & Technology (KIOST, 한국해양과학기술원)
+  start_date: [2023, 3, 1]
+  end_date: [2025, 2, 28]
+  publications:
+    - "입력 텍스트 프롬프트와 출력 이미지와의 연관성 분석을 이용한 데이터 레이블링 및 테스트베드, 황혜린, 문성원, 조동현, 전자공학회논문지, 2024"
+    - "희소 입력 환경에서의 지식 증류를 활용한 카메라-라이다 센서 융합, 황혜린, 조동현, 방송공학회논문지, 2023"
+
+- name: 류재학, Jaehak Ryu
+  position: M.S. Student
+  degree: MS 2026.02
+  current: Independent Researcher
+  start_date: [2024, 3, 1]
+  end_date: [2026, 2, 28]
+  publications:
+    - "[Thesis] Layout-to-Image Generation via Hybrid Structural Cues"
+    - "정밀한 공간 제어를 위한 입력 레이아웃 구체화, IPIU, 2026"
+    - "Preserving Instance-Level Characteristics for Multi-Instance Generation, Jaehak Ryu, Sungwon Moon and Donghyeon Cho, Image and Vision Computing (IMAVIS), 2025"
+    - "레이아웃 기반 생성 모델을 활용한 데이터 증강 및 레이블 신뢰도 평가, IPIU, 2025"
+    - "Consistent Object Removal from Masked Neural Radiance Fields by Estimating Never-Seen Regions in All-Views, Yongjoon Lee, Jaehak Ryu, Donggeun Yoon and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2024"
+
+- name: 이용준, Yongjoon Lee
+  position: M.S. Student
+  degree: MS 2026.02
+  current: Electronics and Telecommunications Research Institute (ETRI, 한국전자통신연구원)
+  start_date: [2024, 3, 1]
+  end_date: [2026, 2, 28]
+  publications:
+    - "[Thesis] A Study on Object-Level 3D Scene Editing"
+    - "참조 이미지 투영을 통한 일관적 3차원 객체 제거, IPIU, 2026"
+    - "GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refinement in 3D Gaussian Splatting, Yongjoon Lee and Donghyeon Cho, Annual AAAI Conference on Artificial Intelligence (AAAI), 2026"
+    - "NeRF에서의 일관적인 객체 제거를 위한 완전히 가려진 영역 추정, IPIU, 2025"
+    - "Consistent Object Removal from Masked Neural Radiance Fields by Estimating Never-Seen Regions in All-Views, Yongjoon Lee, Jaehak Ryu, Donggeun Yoon and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2024"
