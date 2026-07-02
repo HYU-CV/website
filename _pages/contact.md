@@ -30,12 +30,12 @@ Republic of Korea
 
 We are always looking for highly motivated undergraduate, M.S., and Ph.D. students interested in:
 
-- Computer Vision
-- Image and Video Restoration
-- 3D Vision
-- Generative AI
-- Video Understanding
-- Multimodal Learning
+- **Computer Vision**
+- **Image and Video Restoration**
+- **3D Vision**
+- **Generative AI**
+- **Video Understanding**
+- **Multimodal Learning**
 
 Students interested in joining our lab are encouraged to contact us via email with a CV, transcript, and a brief description of their research interests.
 

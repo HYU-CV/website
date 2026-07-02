@@ -83,23 +83,42 @@
 
 {% endif %}
 
-{% if member.scholar or member.dblp %}
+{% if member.scholar or member.dblp or member.github or member.linkedin %}
 
 <p class="member-section-title">Links</p>
 
 <p>
 
-{% if member.scholar %}
-<a href="{{ member.scholar }}" target="_blank">Google Scholar</a>
-{% endif %}
+{% assign links = "" %}
 
-{% if member.scholar and member.dblp %}
-|
+{% if member.scholar %}
+  {% assign links = links | append: '<a href="' | append: member.scholar | append: '" target="_blank">Google Scholar</a>' %}
 {% endif %}
 
 {% if member.dblp %}
-<a href="{{ member.dblp }}" target="_blank">DBLP</a>
+  {% if links != "" %}
+    {% assign links = links | append: ' | ' %}
+  {% endif %}
+  {% assign links = links | append: '<a href="' | append: member.dblp | append: '" target="_blank">DBLP</a>' %}
 {% endif %}
+
+{% if member.github %}
+  {% if links != "" %}
+    {% assign links = links | append: ' | ' %}
+  {% endif %}
+  {% assign links = links | append: '<a href="' | append: member.github | append: '" target="_blank">Github</a>' %}
+{% endif %}
+
+{% if member.linkedin %}
+  {% if links != "" %}
+    {% assign links = links | append: ' | ' %}
+  {% endif %}
+  {% assign links = links | append: '<a href="' | append: member.linkedin | append: '" target="_blank">Linkedin</a>' %}
+{% endif %}
+
+{{ links }}
+
+
 
 </p>
 

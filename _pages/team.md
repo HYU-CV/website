@@ -6,30 +6,38 @@ sitemap: false
 permalink: /team/
 ---
 
-## Faculty
+# Members
+
+<button class="member-toggle" data-target="#professor-section">Professor</button>
+
+<div id="professor-section" class="member-section">
 
 {% assign selected_categories = "principal-investigator" | split:',' %}
 {% include team_list.html %}
 
-<br/>
+</div>
 
-## Graduate Students
+<button class="member-toggle" data-target="#students-section">Students</button>
+
+<div id="students-section" class="member-section" style="display:none;">
+
+### Graduate Students
 
 {% assign selected_categories = "student" | split:',' %}
 {% include team_list.html %}
 
 <br/>
 
-## Undergraduate Interns
+### Undergraduate Interns
 
 {% assign selected_categories = "intern" | split:',' %}
 {% include team_list.html %}
 
-<br/>
+</div>
 
-## Alumni
+<button class="member-toggle" data-target="#alumni-section">Alumni</button>
 
-<div id="alumni_list">
+<div id="alumni-section" class="member-section" style="display:none;">
 
 {% for person in site.data.alumni_members %}
 
@@ -49,31 +57,20 @@ permalink: /team/
 <p class="member-section-title">Internship</p>
 
 <ul class="member-detail-list">
-
 {% for item in person.internship %}
-
 <li>{{ item }}</li>
-
 {% endfor %}
-
 </ul>
-
 {% endif %}
 
 {% if person.publications %}
-
 <p class="member-section-title">Publications</p>
 
 <ul class="member-detail-list">
-
 {% for item in person.publications %}
-
 <li>{{ item }}</li>
-
 {% endfor %}
-
 </ul>
-
 {% endif %}
 
 </div>
@@ -86,16 +83,22 @@ permalink: /team/
 
 $('body').on('click', '.member-list-item[data-href]', function(){
 
-if (window.location.hash) {
+  if (window.location.hash) {
+    window.location.hash = $(this).data('href');
+  } else {
+    window.location.href = $(this).data('href');
+  }
 
-window.location.hash = $(this).data('href');
+});
 
-} else {
+$('.member-toggle').on('click', function(){
 
-window.location.href = $(this).data('href');
+  var target = $(this).data('target');
 
-}
+  $('.member-section').not(target).slideUp();
 
-})
+  $(target).slideToggle();
+
+});
 
 </script>

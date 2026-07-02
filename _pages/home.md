@@ -13,17 +13,21 @@ We are the **Computer Vision Lab (CVLab)** at Hanyang University. Our research f
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624.png" alt="CVLab Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/main.png" alt="CVLab Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_2.png" alt="CVLab Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624.png" alt="CVLab Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_3.png" alt="CVLab Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_2.png" alt="CVLab Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_3.png" alt="CVLab Slide 4" />
         </div>
     </div>
 
@@ -44,7 +48,7 @@ We are the **Computer Vision Lab (CVLab)** at Hanyang University. Our research f
 {% for article in site.data.news %}
   <li>
     <span class="latest-news-date">{{ article.date }}</span>
-    <span class="latest-news-body">– {{ article.headline }}</span>
+    <span class="latest-news-body"> {{ article.headline }}</span>
   </li>
 {% endfor %}
 </ul>
