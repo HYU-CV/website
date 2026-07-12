@@ -11,7 +11,7 @@
   type: "Conference"
   note: "BK21 conference"
   image: "cure.jpg"
-  paper:
+  paper: "https://arxiv.org/abs/2607.03044"
   project:
   code: "https://github.com/bo-oseng/CURE"
 
@@ -26,9 +26,9 @@
   type: "Conference"
   note: "BK21 conference"
   image: "multi_cue_mask_refinement.jpg"
-  paper:
-  project:
-  code:
+  paper: "https://arxiv.org/abs/2607.01708"
+  project: "https://hjpark83.github.io/consisGS.github.io/"
+  code: "https://github.com/hjpark83/Consistent-Scene-Understanding-in-3DGS-via-MCM"
 
 - title: "3D Gaussian Splatting at Arbitrary Resolution with Compact Proxy Anchors"
   authors:
