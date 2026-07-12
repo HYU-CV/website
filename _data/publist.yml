@@ -760,7 +760,7 @@
   venue_full: "IEEE International Conference on Computer Vision"
   year: 2017
   type: "Conference"
-  note: "Spotlight Presentation"
+  note: "BK21 conference"
   image: "content_aware_retargeting.jpg"
   paper: "https://openaccess.thecvf.com/content_ICCV_2017/papers/Cho_Weakly-_and_Self-Supervised_ICCV_2017_paper.pdf"
   project:
