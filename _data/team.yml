@@ -109,6 +109,7 @@
   internship:
   achievements:
   publications:
+    - "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control, Junha Kim, Hyunjoon Park and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2026"
     - "노이즈 최적화 및 레이아웃 조건을 활용한 아웃페인팅 성능 향상, IPIU, 2026"
   ##link: junha-kim
   category: student
@@ -171,6 +172,7 @@
   internship:
   achievements:
   publications:
+    - "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control, Junha Kim, Hyunjoon Park and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2026"
     - "Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement, Hyunjoon Park and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
     - "3DGS에서 2D SAM을 활용할 때 발생하는 한계점 극복 및 효과적인 3차원 공간 이해를 위한 방법에 관한 연구, IPIU, 2026"
     - "3D Gaussian Splatting을 활용한 Point Cloud 합성 및 3차원 합성 공간 복원에 대한 연구, IPIU, 2025"

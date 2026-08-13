@@ -1,5 +1,53 @@
 # [2026]
 
+- title: "Feature-Decoupled Lightweight Monocular Depth Estimation Trained from a Single GPU"
+  authors:
+    - name: Seung Woo Park
+    - name: Donghyeon Cho 
+      is_corresponding: true
+  venue: "MM"
+  venue_full: "ACM Multimedia"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "s_depth.jpg"
+  paper: 
+  project: 
+  code: 
+
+- title: "Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding"
+  authors:
+    - name: Seongro Yoon  
+    - name: Donghyeon Cho
+    - name: Jinsun Park
+    - name: François Brémond 
+      is_corresponding: true
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "mira.png"
+  paper: "https://arxiv.org/abs/2606.30611"
+  project: 
+  code: "https://github.com/ysrinria/MiRA"
+
+- title: "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control"
+  authors:
+    - name: Junha Kim 
+    - name: Hyunjoon Park
+    - name: Donghyeon Cho
+      is_corresponding: true
+  venue: "ECCV"
+  venue_full: "European Conference on Computer Vision"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "hr_outpainting.jpg"
+  paper: "https://arxiv.org/pdf/2607.06162"
+  project: "https://poohoh.github.io/BlueOut.github.io/" 
+  code: "https://github.com/poohoh/BlueOut"
+
 - title: "CURE: Controllable Unified Image Restoration for Complex Degradations"
   authors:
     - name: Boseong Kim
@@ -12,7 +60,7 @@
   note: "BK21 conference"
   image: "cure.jpg"
   paper: "https://arxiv.org/abs/2607.03044"
-  project:
+  project: "https://bo-oseng.github.io/CURE" 
   code: "https://github.com/bo-oseng/CURE"
 
 - title: "Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement"
