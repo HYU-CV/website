@@ -18,16 +18,22 @@ We are the **Computer Vision Lab (CVLab)** at Hanyang University. Our research f
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/main.png" alt="CVLab Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/main.png" alt="CVLab Slide " />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624.png" alt="CVLab Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/KCCV_2026.png" alt="CVLab Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_2.png" alt="CVLab Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/Summer_school_2026.jpg" alt="CVLab Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_3.png" alt="CVLab Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_3.png" alt="CVLab Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_2.png" alt="CVLab Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_1.png" alt="CVLab Slide 1" />
         </div>
     </div>
 
