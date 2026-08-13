@@ -33,7 +33,7 @@ We are the **Computer Vision Lab (CVLab)** at Hanyang University. Our research f
             <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_2.png" alt="CVLab Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624_1.png" alt="CVLab Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home-slider/20260624.png" alt="CVLab Slide 1" />
         </div>
     </div>
 
