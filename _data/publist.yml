@@ -44,7 +44,7 @@
   type: "Conference"
   note: "BK21 conference"
   image: "hr_outpainting.jpg"
-  paper: "https://arxiv.org/pdf/2607.06162"
+  paper: "https://arxiv.org/abs/2607.06162"
   project: "https://poohoh.github.io/BlueOut.github.io/" 
   code: "https://github.com/poohoh/BlueOut"
 
