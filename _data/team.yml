@@ -134,7 +134,7 @@
 
 - name: 김지은, Jieun Kim
   name_abbr: J. Kim
-  photo: 김지은_프로필.jpg
+  photo: 김지은_프로필2.jpg
   info: M.S. Student, 2025.03~
   email:
   intro: Dataset Distillation, Representation Learning
@@ -165,7 +165,7 @@
 
 - name: 박현준, Hyunjoon Park
   name_abbr: H. Park
-  photo: 박현준_프로필.jpeg
+  photo: 박현준_프로필2.jpeg
   info: M.S. Student, 2025.09~
   email:
   intro: 3D Gaussian Splatting, Video Generation, 3D Vision
@@ -233,7 +233,7 @@
   intro: Computer Vision
   internship:
   achievements:
-    - "Achivements: 2026 대한전자공학회 인공지능신호처리 학부생 논문경진대회 우수상"
+    - "2026 대한전자공학회 인공지능신호처리 학부생 논문경진대회 우수상"
   publications:
     - "StreetGaussians의 주요 실패 사례 분석 및 개선 전략 제안, 대한전자공학회 하계학술대회, 2026" 
   github: https://github.com/april2901
@@ -249,7 +249,7 @@
   intro: Computer Vision
   internship:
   achievements:
-    - "Achivements: 2026 대한전자공학회 인공지능신호처리 학부생 논문경진대회 우수상"
+    - "2026 대한전자공학회 인공지능신호처리 학부생 논문경진대회 우수상"
   publications:
     - "StreetGaussians의 주요 실패 사례 분석 및 개선 전략 제안, 대한전자공학회 하계학술대회, 2026" 
   github: https://github.com/bboeric

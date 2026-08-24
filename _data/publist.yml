@@ -1,5 +1,21 @@
 # [2026]
 
+- title: "LG-PLO: Layout-Grounded Plackett–Luce Optimization for Instance-Aware Image Generation"
+  authors:
+    - name: Yeongseung Kim
+    - name: Sungwon Moon
+    - name: Donghyeon Cho 
+      is_corresponding: true
+  venue: "CIKM"
+  venue_full: "ACM International Conference on Information and Knowledge Management"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "LG-PLO.jpg"
+  paper: 
+  project: 
+  code: 
+
 - title: "Feature-Decoupled Lightweight Monocular Depth Estimation Trained from a Single GPU"
   authors:
     - name: Seung Woo Park
