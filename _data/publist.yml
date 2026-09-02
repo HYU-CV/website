@@ -31,23 +31,6 @@
   project: 
   code: 
 
-- title: "Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding"
-  authors:
-    - name: Seongro Yoon  
-    - name: Donghyeon Cho
-    - name: Jinsun Park
-    - name: François Brémond 
-      is_corresponding: true
-  venue: "ECCV"
-  venue_full: "European Conference on Computer Vision"
-  year: 2026
-  type: "Conference"
-  note: "BK21 conference"
-  image: "mira.png"
-  paper: "https://arxiv.org/abs/2606.30611"
-  project: 
-  code: "https://github.com/ysrinria/MiRA"
-
 - title: "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control"
   authors:
     - name: Junha Kim 
