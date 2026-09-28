@@ -121,3 +121,39 @@
     - "GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refinement in 3D Gaussian Splatting, Yongjoon Lee and Donghyeon Cho, Annual AAAI Conference on Artificial Intelligence (AAAI), 2026"
     - "NeRF에서의 일관적인 객체 제거를 위한 완전히 가려진 영역 추정, IPIU, 2025"
     - "Consistent Object Removal from Masked Neural Radiance Fields by Estimating Never-Seen Regions in All-Views, Yongjoon Lee, Jaehak Ryu, Donggeun Yoon and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2024"
+
+- name: 김보성, Boseong Kim
+  position: M.S. Student
+  degree: MS 2026.08
+  current: Hanyang University (연구원)
+  start_date: [2024, 3, 1]
+  end_date: [2026, 8, 31]
+  publications:
+    - "[Thesis] A Generalized Framework for All-in-One Image Restoration"
+    - "Discovering Unseen Degradations to Adapt Open-World Image Restoration, Boseong Kim, Tae Hyun Kim and Donghyeon Cho, Conference on Neural Information Processing Systems (NeurIPS), 2026"
+    - "CURE: Controllable Unified Image Restoration for Complex Degradations, Boseong Kim and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
+    - "복합 열화 환경에서 복원 제어가 가능한 이미지 복원, IPIU, 2026"
+    - "항공 영상 복원을 위한 비지도 기반 그림자 제거 및 초해상화 통합 모델, 한국방송미디어공학회 추계학술대회, 2025"
+
+- name: 손성준, Seongjun Son
+  position: M.S. Student
+  degree: MS 2026.08
+  current: Hanyang University (Ph.D. Student)
+  start_date: [2024, 3, 1]
+  end_date: [2026, 8, 31]
+  publications:
+    - "[Thesis] Real-simulation Data-Driven Pathloss Prediction from Aerial Imagery with Morphology-Aware Modeling"
+    - "광선추적법 기반 이종 데이터세트 융합을 통한 딥러닝 기반 라디오 맵 추정 성능 향상, 대한전자공학회 하계학술대회, 2026"
+    - "유도 증류 기법을 활용한 항공 영상에서의 준지도학습 기반 객체 분할 성능 개선에 관한 연구, IPIU, 2026"
+    - "항공 영상에서의 비지도 학습 기반 이동체 분할을 위한 CLIP 기반 의사 마스크 필터링 기법, 한국방송미디어공학회 추계학술대회, 2025
+    
+- name: 김준하, Junha Kim
+  position: M.S. Student
+  degree: MS 2026.08
+  current: Hanyang University (연구원)
+  start_date: [2024, 9, 1]
+  end_date: [2026, 8, 31]
+  publications:
+    - "[Thesis] A Generalized Framework for Controllable Image Outpainting with Global Blueprint Guidance"
+    - "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control, Junha Kim, Hyunjoon Park and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2026"
+    - "노이즈 최적화 및 레이아웃 조건을 활용한 아웃페인팅 성능 향상, IPIU, 2026"

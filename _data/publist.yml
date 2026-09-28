@@ -1,4 +1,19 @@
 # [2026]
+- title: "Discovering Unseen Degradations to Adapt Open-World Image Restoration"
+  authors:
+    - name: Boseong Kim
+    - name: Tae Hyun Kim
+    - name: Donghyeon Cho 
+      is_corresponding: true
+  venue: "NeurIPS"
+  venue_full: "Conference on Neural Information Processing Systems"
+  year: 2026
+  type: "Conference"
+  note: "BK21 conference"
+  image: "OWIR.png"
+  paper: 
+  project: 
+  code: 
 
 - title: "LG-PLO: Layout-Grounded Plackett–Luce Optimization for Instance-Aware Image Generation"
   authors:

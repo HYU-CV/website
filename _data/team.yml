@@ -65,23 +65,6 @@
   sort-key: lim-changsoo
   active: true
 
-- name: 김보성, Boseong Kim
-  name_abbr: B. Kim
-  photo: 김보성_프로필.jpg
-  info: M.S. Student, 2024.03~
-  email:
-  intro: Image Restoration, Controllable Image Restoration
-  internship:
-  achievements:
-  publications:
-    - "CURE: Controllable Unified Image Restoration for Complex Degradations, Boseong Kim and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
-    - "복합 열화 환경에서 복원 제어가 가능한 이미지 복원, IPIU, 2026"
-    - "항공 영상 복원을 위한 비지도 기반 그림자 제거 및 초해상화 통합 모델, 한국방송미디어공학회 추계학술대회, 2025"
-  ##link: boseong-kim
-  category: student
-  sort-key: kim-boseong
-  active: true
-
 - name: 손성준, Seongjun Son
   name_abbr: S. Son
   photo: 손성준_프로필.jpeg
@@ -100,10 +83,28 @@
   sort-key: son-seongjun
   active: true
 
+- name: 김보성, Boseong Kim
+  name_abbr: B. Kim
+  photo: 김보성_프로필.jpg
+  info: Researcher, 2026.09~
+  email:
+  intro: Image Restoration, Controllable Image Restoration
+  internship:
+  achievements:
+  publications:
+    - "Discovering Unseen Degradations to Adapt Open-World Image Restoration, Boseong Kim, Tae Hyun Kim and Donghyeon Cho, Conference on Neural Information Processing Systems (NeurIPS), 2026"
+    - "CURE: Controllable Unified Image Restoration for Complex Degradations, Boseong Kim and Donghyeon Cho, International Conference on Pattern Recognition (ICPR), 2026"
+    - "복합 열화 환경에서 복원 제어가 가능한 이미지 복원, IPIU, 2026"
+    - "항공 영상 복원을 위한 비지도 기반 그림자 제거 및 초해상화 통합 모델, 한국방송미디어공학회 추계학술대회, 2025"
+  ##link: boseong-kim
+  category: student
+  sort-key: kim-boseong
+  active: true
+
 - name: 김준하, Junha Kim
   name_abbr: J. Kim
   photo: 김준하_프로필.jpg
-  info: M.S. Student, 2024.09~
+  info: Researcher, 2026.09~
   email:
   intro: Generative AI, Outpainting, Layout Control
   internship:
