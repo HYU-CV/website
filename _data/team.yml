@@ -97,7 +97,7 @@
     - "복합 열화 환경에서 복원 제어가 가능한 이미지 복원, IPIU, 2026"
     - "항공 영상 복원을 위한 비지도 기반 그림자 제거 및 초해상화 통합 모델, 한국방송미디어공학회 추계학술대회, 2025"
   ##link: boseong-kim
-  category: student
+  category: researcher
   sort-key: kim-boseong
   active: true
 
@@ -113,7 +113,7 @@
     - "High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control, Junha Kim, Hyunjoon Park and Donghyeon Cho, European Conference on Computer Vision (ECCV), 2026"
     - "노이즈 최적화 및 레이아웃 조건을 활용한 아웃페인팅 성능 향상, IPIU, 2026"
   ##link: junha-kim
-  category: student
+  category: researcher
   sort-key: kim-junha
   active: true
 
@@ -222,7 +222,7 @@
   achievements:
   publications:
   ##link: kyutae-kang
-  category: intern
+  category: student
   sort-key: kang-kyutae
   active: true
 
@@ -268,7 +268,7 @@
   achievements:
   publications:
   ##link: geon-lee
-  category: intern
+  category: student
   sort-key: lee-geon
   active: true
 

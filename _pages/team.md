@@ -21,6 +21,17 @@ permalink: /team/
 
 <div id="students-section" class="member-section" style="display:none;">
 
+### Researcher
+
+<button class="member-toggle" data-target="#researchers-section">Researchers</button>
+
+<div id="researchers-section" class="member-section" style="display:none;">
+
+{% assign selected_categories = "researcher" | split:',' %}
+{% include team_list.html %}
+
+</div>
+
 ### Graduate Students
 
 {% assign selected_categories = "student" | split:',' %}
