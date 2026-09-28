@@ -17,10 +17,6 @@ permalink: /team/
 
 </div>
 
-<button class="member-toggle" data-target="#students-section">Students</button>
-
-<div id="students-section" class="member-section" style="display:none;">
-
 ### Researcher
 
 <button class="member-toggle" data-target="#researchers-section">Researchers</button>
@@ -31,6 +27,10 @@ permalink: /team/
 {% include team_list.html %}
 
 </div>
+
+<button class="member-toggle" data-target="#students-section">Students</button>
+
+<div id="students-section" class="member-section" style="display:none;">
 
 ### Graduate Students
 
